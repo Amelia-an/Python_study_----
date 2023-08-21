@@ -66,5 +66,5 @@ while running:
     pygame.display.update()
             
             
-#게임 종료
+#게임 끝
 pygame.quit()
